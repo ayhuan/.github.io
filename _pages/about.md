@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<img width="1847" height="1573" alt="image" src="https://github.com/user-attachments/assets/59b4c50f-b430-497e-9987-db52c17820e8" />
 
 I am an undergraduate student at the College of Computer Science and Technology, Jilin University.
 
